@@ -8,3 +8,5 @@ Uso:
 
 
 ![roulette2](https://github.com/user-attachments/assets/1d0ef250-a33a-46b9-864c-a9a3a7e8992e)
+
+El resultado final siempre será negativo para la persona particular y positivo para el casino
